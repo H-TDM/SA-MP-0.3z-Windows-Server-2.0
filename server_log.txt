@@ -1,0 +1,53 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[09:43:28] filterscripts = ""  (string)
+[12/08/14 ] 
+[12/08/14 ] Server Plugins
+[12/08/14 ] --------------
+[12/08/14 ]  Loading plugin: crashdetect.dll
+[12/08/14 ]   CrashDetect v4.15.1 is OK.
+[12/08/14 ]   Loaded.
+[12/08/14 ]  Loading plugin: streamer.dll
+[12/08/14 ] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[12/08/14 ]   Loaded.
+[12/08/14 ]  Loading plugin: sscanf.dll
+[12/08/14 ] 
+
+[12/08/14 ]  ===============================
+
+[12/08/14 ]       sscanf plugin loaded.     
+
+[12/08/14 ]          Version:  2.8.1        
+
+[12/08/14 ]    (c) 2012 Alex "Y_Less" Cole  
+
+[12/08/14 ]  ===============================
+
+[12/08/14 ]   Loaded.
+[12/08/14 ]  Loading plugin: mysql.dll
+[12/08/14 ]  SA:MP MySQL Plugin v2.1.1 Loaded.
+[12/08/14 ]   Loaded.
+[12/08/14 ]  Loading plugin: Whirlpool.dll
+[12/08/14 ] [MySQL] Thread running. Threadsafe: Yes.
+[12/08/14 ]  
+[12/08/14 ]  ==================
+[12/08/14 ]  
+[12/08/14 ]   Whirlpool loaded
+[12/08/14 ]  
+[12/08/14 ]  ==================
+[12/08/14 ]  
+[12/08/14 ]   Loaded.
+[12/08/14 ]  Loaded 5 plugins.
+
+[12/08/14 ] I couldn't load any gamemode scripts. Please verify your server.cfg
+[12/08/14 ] It needs a gamemode0 line at the very least.
